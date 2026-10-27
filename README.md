@@ -122,4 +122,8 @@ Camera scanning requires HTTPS, which Vercel provides. Render's free tier sleeps
 
 ## Demo video checklist
 
-Register → create event → upload CSV → open a student's QR → scan it (success) → scan again (already checked in) → try a wrong/invalid code → show the live dashboard updating in a second window → show the deployed URL.
+Drive Link - https://drive.google.com/file/d/1eVkD0Twdrr3MKRYPyKibSOlqRfjEr-MB/view?usp=drivesdk
+
+## Vercel Live Link
+
+Link - https://campus-event-checkin.vercel.app/
